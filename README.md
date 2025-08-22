@@ -1,0 +1,2 @@
+# Brain-Tumor-MRI-Classification-using-Vision-Transformer-and-CNN-Models
+Classifies brain tumors from MRI scans using deep learning models including CNNs and Vision Transformers (ViT) with PyTorch and Hugging Face. Includes image preprocessing, data augmentation, model training, evaluation, and performance comparison. Achieves high accuracy in detecting tumors, supporting early diagnosis and medical decision-making.
